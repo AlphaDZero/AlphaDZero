@@ -1,4 +1,4 @@
-# Welcome... 👨‍🎓🎮🖥️💻📱
+# Welcome... 🎮🖥️💻📱
 ![AlphaDZero GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaDZero&show_icons=true&theme=radical)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrebezerque@gmail.com)
